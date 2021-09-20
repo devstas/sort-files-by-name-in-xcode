@@ -1,4 +1,4 @@
-# sort-files-by-name-in-xcode
+# sort files by name in xcode project
 
 1. add a script to the root of the project
 
